@@ -57,3 +57,7 @@ input[type="text"], textarea, select{
     padding: 0.25rem;
 }
 
+.err{
+    color: red;
+    display: none;
+}
